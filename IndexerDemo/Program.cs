@@ -11,10 +11,10 @@ namespace IndexerDemo
         static void Main(string[] args)
         {
             MyClass mc = new MyClass();
-            mc[0] = "Rajesh";
-            mc[1] = "A3-126";
-            mc[2] = "Snehadara";
-            mc[3] = "Irla";
+            mc[0] = "Ketan";
+            mc[1] = "India";
+            mc[2] = "Nashik";
+            mc[3] = "Pune";
             mc[4] = "Mumbai";
             Console.WriteLine("{0},{1},{2},{3},{4}", mc[0], mc[1], mc[2], mc[3], mc[4]);
             Console.ReadLine();

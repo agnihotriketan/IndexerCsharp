@@ -1,0 +1,6 @@
+D:\MyGit\IndexerDemo\IndexerDemo\IndexerDemo\bin\Debug\IndexerDemo.exe.config
+D:\MyGit\IndexerDemo\IndexerDemo\IndexerDemo\bin\Debug\IndexerDemo.exe
+D:\MyGit\IndexerDemo\IndexerDemo\IndexerDemo\bin\Debug\IndexerDemo.pdb
+D:\MyGit\IndexerDemo\IndexerDemo\IndexerDemo\obj\Debug\IndexerDemo.csprojResolveAssemblyReference.cache
+D:\MyGit\IndexerDemo\IndexerDemo\IndexerDemo\obj\Debug\IndexerDemo.exe
+D:\MyGit\IndexerDemo\IndexerDemo\IndexerDemo\obj\Debug\IndexerDemo.pdb

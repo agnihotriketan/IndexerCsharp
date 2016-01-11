@@ -38,7 +38,7 @@ namespace IndexerDemo
         }
 
 
-
+        // Overloaded indexer
         public int this[string name]
         {
             get

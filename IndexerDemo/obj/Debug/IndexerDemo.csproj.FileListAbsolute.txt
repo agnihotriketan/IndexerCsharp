@@ -7,3 +7,6 @@ D:\MyGit\IndexerDemo\IndexerDemo\IndexerDemo\obj\Debug\IndexerDemo.pdb
 D:\MyGit\IndexerDemo\IndexerCsharp\IndexerDemo\bin\Debug\IndexerDemo.exe.config
 D:\MyGit\IndexerDemo\IndexerCsharp\IndexerDemo\obj\Debug\IndexerDemo.exe
 D:\MyGit\IndexerDemo\IndexerCsharp\IndexerDemo\obj\Debug\IndexerDemo.pdb
+D:\MyGit\IndexerDemo\IndexerCsharp\IndexerDemo\bin\Debug\IndexerDemo.exe
+D:\MyGit\IndexerDemo\IndexerCsharp\IndexerDemo\bin\Debug\IndexerDemo.pdb
+D:\MyGit\IndexerDemo\IndexerCsharp\IndexerDemo\obj\Debug\IndexerDemo.csprojResolveAssemblyReference.cache

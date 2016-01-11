@@ -17,6 +17,7 @@ namespace IndexerDemo
             mc[3] = "Pune";
             mc[4] = "Mumbai";
             Console.WriteLine("{0},{1},{2},{3},{4}", mc[0], mc[1], mc[2], mc[3], mc[4]);
+            Console.WriteLine("Overloaded indexer gives index of 'Nashik' string in list i.e. --> " + mc["Nashik"]);
             Console.ReadLine();
         }
     }
@@ -35,6 +36,26 @@ namespace IndexerDemo
                 data[index] = value;
             }
         }
+
+
+
+        public int this[string name]
+        {
+            get
+            {
+                int index = 0;
+                while (index < data.Length)
+                {
+                    if (data[index] == name)
+                    {
+                        return index;
+                    }
+                    index++;
+                }
+                return index;
+            }
+
+        }
     }
- 
+
 }
